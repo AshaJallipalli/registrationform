@@ -1,0 +1,84 @@
+@charset "ISO-8859-1";
+body
+{	
+	margin:0;
+	padding:0;
+	background-color:LightGrey;
+	font-family:"Arial";
+}
+.reg
+{
+	width:450px;
+	margin:auto;
+	background-color:Grey;
+	border-radius:17px;
+	padding:80px;
+	overflow:hidden;
+}
+h1
+{
+	text-align:center;
+	color:#277582;
+	
+}
+label
+{
+	color: #08ffd1;
+	font-size:17px;
+}
+#firstname
+{
+	width:300px;
+	height:30px;
+	border:none;
+	border-radius:3px;
+	padding-left:8px;
+}
+#middlename
+{
+	width:300px;
+	height:30px;
+	border:none;
+	border-radius:3px;
+	padding-left:8px;
+}
+#lastname
+{
+	width:300px;
+	height:30px;
+	border:none;
+	border-radius:3px;
+	padding-left:8px;
+}
+#password
+{
+	width:300px;
+	height:30px;
+	border:none;
+	border-radius:3px;
+	padding-left:8px;
+}
+#email
+{
+	width:300px;
+	height:30px;
+	border:none;
+	border-radius:3px;
+	padding-left:8px;
+}
+#address
+{
+	width:300px;
+	height:30px;
+	border:none;
+	border-radius:3px;
+	padding-left:8px;
+}
+#contact
+{
+	width:300px;
+	height:30px;
+	border:none;
+	border-radius:3px;
+	padding-left:8px;
+}
